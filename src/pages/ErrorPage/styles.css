@@ -1,0 +1,32 @@
+#error-page {
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+#error-page .img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#error-page .img-container img {
+    width: 60rem;
+    height: 60rem;
+}
+#error-page .error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#error-page .error-container h2 {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+@media(min-width: 700px) {
+    #error-page {
+        max-width: 100%;
+    }
+}

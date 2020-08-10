@@ -1,44 +1,76 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+<br>
+  <img src=".github/logo-readme.png" alt="proffy" width="500">
+<br>
 
-## Available Scripts
+<a target="_blank" href="https://github.com/RodzAlves/proffy-api">
+    <img alt="ReactNative" src="https://img.shields.io/static/v1?color=brightgreen&label=Go to&message=API&?style=plastic&logo=Node.js">
+  </a>
+    <a href="https://reactjs.org/">
+  <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
+</a>
 
-In the project directory, you can run:
+</h1>
 
-### `yarn start`
+## 💻 Project
+Proffy is a platform to connect students and teachers, it is possible to filter teachers with availability on each day or different time.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+💡 This repository refers to the project's Web Frontend.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<h3 align="center">
+  <img src=".github/gif-proffy.gif" alt="demonstration" width="700">
+<h3>
 
-### `yarn test`
+## 🎨 Screens
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h3 align="center">
+  <img src=".github/screens.jpg" alt="demonstration" width="700">
+<h3>
 
-### `yarn build`
+> Responsive with the mobile-first methodology
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Technologies
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The project was developed with these technologies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- ✔️ ReactJS
 
-### `yarn eject`
+- ✔️ React Router DOM
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- ✔️ Axios
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ✔️ TypeScript
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ⚙ Run Frontend (Web)
 
-## Learn More
+To run the application you will need:
+* [Run the API Proffy](https://github.com/RodzAlves/proffy-api)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Now follow the steps:
+```bash
+# to clone the repository
+$ https://github.com/RodzAlves/proffy-web.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# go into the web folder
+$ cd proffy-web
+
+# install dependencies
+$ yarn or npm install 
+
+# run frontend
+$ yarn start or npm run start
+
+# the server will be running on port 3000 - http://localhost:3000
+```
+
+
+<br>
+<h3 align="center">
+  
+  Made with 💜 by Rodrigo Alves 👋 <br>
+   <a href="https://www.linkedin.com/in/rodrigo-alves-dev/" alt="LinkedIn" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+</h3>
+<br>
