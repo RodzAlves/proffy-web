@@ -4,9 +4,9 @@
 <br>
 
 <a target="_blank" href="https://github.com/RodzAlves/proffy-api">
-    <img alt="ReactNative" src="https://img.shields.io/static/v1?color=brightgreen&label=Go to&message=API&?style=plastic&logo=Node.js">
+    <img alt="Node API" src="https://img.shields.io/static/v1?color=brightgreen&label=To&message=API&?style=plastic&logo=Node.js">
   </a>
-    <a href="https://reactjs.org/">
+<a href="https://reactjs.org/">
   <img alt="ReactJS" src="https://img.shields.io/static/v1?color=blue&label=React&message=JS&?style=plastic&logo=React">
 </a>
 
